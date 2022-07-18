@@ -25,7 +25,7 @@ unsigned int _strspn(char *s, char *accept)
 				flag = 1;
 			}
 		}
-[I		if (flag == 0)
+		if (flag == 0)
 		{
 			return (f);
 		}
