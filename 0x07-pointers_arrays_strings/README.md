@@ -1,6 +1,6 @@
-#Even more pointers, arrays and strings
+# Even more pointers, arrays and strings
 
-##Contents
+## Contents
 
 * File 0-memset.c is a function that fills memory with a constant byte.
 
