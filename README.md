@@ -52,7 +52,9 @@ Some of the tracks where this knowledge will be applied covers the following;
 - [C - More malloc, Free](https://github.com/OlaoluwaISOGUN/alx-low_level_programming/tree/master/0x0C-more_malloc_free)
 - [C - Preprocessor](https://github.com/TosinISOGUN/alx-low_level_programming/tree/master/0x0D-preprocessor)
 - [C - Function pointers](https://github.com/OlaoluwaISOGUN/alx-low_level_programming/tree/master/0x0F-function_pointers)
+- [C - Variadic Functions](https://github.com/OlaoluwaISOGUN/alx-low_level_programming/tree/master/0x10-variadic_functions)
 
 
 ## Credits
-Collaborators are acknowledged within each project.
+- Collaborators
+  - TosinISOGUN (Oluwatomisin Isogun)
